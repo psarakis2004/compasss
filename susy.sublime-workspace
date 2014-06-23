@@ -1,0 +1,1203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-contrast"
+			],
+			[
+				"light",
+				"lighten	lighten()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"up",
+				"upper-alpha"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ac",
+				"actorList"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"actorInfo",
+				"actorInfoTemplate"
+			],
+			[
+				"actor",
+				"actorInfo"
+			],
+			[
+				"acto",
+				"actorList"
+			],
+			[
+				"act",
+				"actorList"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"actorList",
+				"actorListTemplate"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"por",
+				"prototype"
+			],
+			[
+				"to",
+				"totalImgsWidth"
+			],
+			[
+				"img",
+				"imgWidth"
+			],
+			[
+				"imgs",
+				"imgsLen"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"contac",
+				"contactForm"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"nod",
+				"node_views"
+			],
+			[
+				"node",
+				"node_type"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"bad",
+				"background"
+			],
+			[
+				"form",
+				"formatter"
+			],
+			[
+				"field_ui",
+				"field_ui_formatter_options"
+			],
+			[
+				"nutri",
+				"nutritioninfo"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"minu",
+				"minutes_fraction"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"te",
+				"te-a	text-emphasis: after;"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"space",
+				"space-portfolio"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"blco",
+				"inline-block"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"border-",
+				"border-spacing"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"c",
+				"colspan	Attr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bod",
+				"bold"
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"font-S",
+				"font-style"
+			],
+			[
+				"after",
+				"after_content"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"side",
+				"sidebar_right"
+			],
+			[
+				"f",
+				"front_page"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"filter",
+				"filter_xss_admin"
+			],
+			[
+				"hid",
+				"hide_site_slogan"
+			],
+			[
+				"hide",
+				"hide_site_name"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"z-in",
+				"z-index"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mail",
+				"mailing_list"
+			],
+			[
+				"thumb",
+				"thumb_name"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"h",
+				"handle"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"P",
+				"PASSWORD"
+			],
+			[
+				"REQUEST",
+				"http_request_method_name"
+			],
+			[
+				"session",
+				"session_decode"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"PRI",
+				"print_r"
+			],
+			[
+				"mo",
+				"months"
+			],
+			[
+				"m",
+				"months"
+			],
+			[
+				"rem",
+				"remfromsites"
+			],
+			[
+				"tut",
+				"tuts_sites"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"array_fi",
+				"array_filter"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"t",
+				"tuts_sites"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"s",
+				"serif"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ted",
+				"text-indent"
+			],
+			[
+				"p",
+				"progress"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border-d",
+				"border-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bodrer",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "susytut.sublime-project",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"sublimelinter:to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"subli",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"beu",
+				"SassBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"synt",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set",
+				"Set Syntax: Sass"
+			],
+			[
+				"set sy",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Snippet: +include - Sass syntax"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"sassbe",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"saass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"set s",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Fetch: File"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fect",
+				"Fetch: Manage"
+			],
+			[
+				"fec",
+				"Fetch: Package"
+			],
+			[
+				"fecth",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"html	",
+				"Snippet: html"
+			],
+			[
+				"sytax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"htl",
+				"Snippet: html"
+			],
+			[
+				"HTML	",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"Sass",
+			"sass",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/sasscompass/stylesheets/fonts/stone.TTF",
+		"/C/wamp/www/sasscompass/sass/lala.scss",
+		"/C/wamp/www/sasscompass/index.html",
+		"/C/wamp/www/sasscompass/config/compass.rb",
+		"/C/wamp/www/sasscompass/stylesheets/style.css",
+		"/C/wamp/www/sasscompass/sass/_mixins.scss",
+		"/C/wamp/www/sasscompass/css/style.css",
+		"/C/wamp/www/sasscompass/compass.rb",
+		"/C/wamp/www/sasscompass/style.css",
+		"/C/wamp/www/susy/susytut.sublime-project",
+		"/C/wamp/www/susy/js/plugins.js",
+		"/C/wamp/www/susy/css/main.css",
+		"/C/wamp/www/susy/test.php",
+		"/C/wamp/www/susy/scss/main.scss",
+		"/C/wamp/www/susy/index.html",
+		"/C/wamp/www/sasstest2/css/style.css",
+		"/C/wamp/www/sasstest2/index.html",
+		"/C/wamp/www/sasstest2/Gemfile",
+		"/C/wamp/www/sasstest2/sass/style.scss",
+		"/C/wamp/www/sasstest2/sass/vars/_grid.scss",
+		"/C/wamp/www/sasstest2/config.rb",
+		"/C/wamp/www/sasstest2/sass/vars/_colors.scss",
+		"/C/wamp/www/sasstest2/sass/vars/grid/_width.scss",
+		"/C/wamp/www/sasstest2/sass/vars/_type.scss",
+		"/C/wamp/www/sasstest/_mixins.scss",
+		"/C/wamp/www/sasstest/style.css",
+		"/C/Users/Peny/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/node.tpl.php",
+		"/C/wamp/www/jqueryui/tabs",
+		"/C/wamp/www/jqueryphp/js/accordion.html",
+		"/C/wamp/www/jqueryphp/css/normalize.css",
+		"/C/wamp/www/jqueryphp/_partials/header.php",
+		"/C/wamp/www/jqueryphp/skeleton/__tmp_package.zip",
+		"/C/wamp/www/jqueryphp/_partials/footer.php",
+		"/C/wamp/www/jqueryphp/functions.php",
+		"/C/wamp/www/jqueryphp/css/style.css",
+		"/C/wamp/www/jqueryphp/index.php",
+		"/C/wamp/www/jqueryphp/views/index.tmpl.php",
+		"/C/wamp/www/jqueryphp/js/script.js",
+		"/C/wamp/www/jqueryphp/test/robots.txt",
+		"/C/Sites/normalize.css/normalize.css",
+		"/C/wamp/www/jqueryphp/actor.php",
+		"/C/wamp/www/jqueryphp/views/actor.tmpl.php",
+		"/C/wamp/www/jqueryphp/actor.tmpl.php",
+		"/C/wamp/www/jqueryphp/views/actor.php",
+		"/C/wamp/www/justjquery/index.html",
+		"/C/wamp/www/pandapc/css/style.css",
+		"/C/wamp/www/justjquery/gettweets.php",
+		"/C/wamp/www/justjquery/ajax-post.html",
+		"/C/wamp/www/justjquery/twitterfeed.js",
+		"/C/wamp/www/justjquery/handlebarstemplate.html",
+		"/C/wamp/www/justjquery/daynight.html",
+		"/C/wamp/www/justjquery/night.css",
+		"/C/wamp/www/justjquery/twitter.html",
+		"/C/wamp/www/justjquery/lasla.json",
+		"/C/wamp/www/justjquery/slideform.html",
+		"/C/wamp/www/justjquery/twitter-styles.css",
+		"/C/wamp/www/justjquery/twitter",
+		"/C/wamp/www/justjquery/save.php",
+		"/C/wamp/www/justjquery/data.txt",
+		"/C/wamp/www/justjquery/firstajax.html",
+		"/C/wamp/www/justjquery/contact.html",
+		"/C/wamp/www/justjquery/about.html",
+		"/C/wamp/www/justjquery/handlebars-v1.3.0.js",
+		"/C/wamp/www/justjquery/simletemplating.html",
+		"/C/wamp/www/justjquery/slider.css",
+		"/C/wamp/www/justjquery/slider.js",
+		"/C/wamp/www/justjquery/slideropt.js",
+		"/C/wamp/www/justjquery/slideropt.html",
+		"/C/wamp/www/justjquery/slider.html",
+		"/C/Users/Peny/Desktop/howord/medusa_15/themeforest-5984476-medusa-responsive-multipurpose-theme/Medusa Dummy Data.xml",
+		"/C/Users/Peny/AppData/Local/Skitch/New_Skitch_060414_120108_PM.jpg",
+		"/C/wamp/www/justjquery/faq.html",
+		"/C/wamp/www/justjquery/style2.css",
+		"/C/wamp/www/justjquery/append.html",
+		"/C/wamp/www/justjquery/style.css",
+		"/C/wamp/www/justjquery/clone.html",
+		"/C/wamp/www/justjquery/day.css",
+		"/C/Users/Peny/Sites/newtest/themes/bartik/templates/page.tpl.php",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/originalpage.php",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/old code",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/index.html",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/page.tpl.php",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/nine/nine.info",
+		"/C/Users/Peny/Sites/newtest/modules/system/page.tpl.php",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/onetheme/onetheme.info",
+		"/C/Users/Peny/Sites/newtest/sites/all/themes/omnia/omnia.info",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/dataout/dataout.install",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/dataout/dataout.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/dataout/dataout.info",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/annotate/annotate.admin.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/annotate/annotate.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/annotate/annotate.info",
+		"/C/wamp/www/panda/css/bootstrap.css",
+		"/C/wamp/www/pandapc/css/bootstrap.css",
+		"/C/wamp/www/panda/index.html",
+		"/C/Users/Peny/Downloads/FullscreenSlitSlider/FullscreenSlitSlider/index2.html",
+		"/C/Users/Peny/Downloads/FullWidthImageSlider/FullWidthImageSlider/index.html",
+		"/C/wamp/www/pandapc/css/bootstrap-theme.css",
+		"/C/wamp/www/panda/css/contact.css",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/demo/demo.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/demo2/demo_passwords_form.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/demo2/demo2.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/addtabledb/addtabledb.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/addtabledb/addtabledb.info",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/dbdata/dbdata.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/dbdata/dbdata.info",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/demo2/demo2.info",
+		"/C/Users/Peny/Downloads/variable-value.bin",
+		"/C/wamp/www/pandapc/css/common.css",
+		"/C/wamp/www/pandapc/index.html",
+		"/C/wamp/www/pandapc/js/bootstrap.min.js",
+		"/C/wamp/www/pandapc/js/bootstrap.js",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/form_fun/form_fun.cake.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/form_fun/form_fun.tree.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/form_fun/form_fun.states.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/form_fun/form_fun.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/form_fun/form_fun.info",
+		"/C/wamp/bin/php/php5.4.12/php.ini",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_magic/menu_magic.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/spy_glass/spy_glass.module",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/spy_glass/spy-glass-item.tpl.php",
+		"/C/Users/Peny/Sites/newtest/themes/bartik/templates/spy-glass-item.tpl.php",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_magic/menu_magic.extra.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_magic/menu_magic.user.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_magic/menu_magic.context.inc",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_magic/menu_magic.css",
+		"/C/Users/Peny/Sites/newtest/sites/all/modules/custom/menu_mangler/menu_mangler.info"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-size",
+			".twitter",
+			"clearfix",
+			"];",
+			"click",
+			"clikc",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"><img src=\"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"<img src=\"images",
+			"images",
+			"font",
+			"stdclass",
+			"outdata",
+			"768px",
+			"767px",
+			"visible-xs",
+			"visible",
+			"767px",
+			"768px",
+			"767px",
+			"max-width",
+			"767px",
+			"1000px",
+			"max",
+			"768",
+			"max",
+			"768",
+			"mix",
+			"bootstrap",
+			"min",
+			"mix",
+			"max",
+			"use",
+			"user",
+			"max",
+			"curl",
+			"element-item",
+			"no-js",
+			"rgb(34, 99, 147);",
+			"open",
+			".space-dropdown > ul ",
+			".space-dropdown > ul {",
+			"open",
+			".space-dropdown ul li a",
+			"29bcb8",
+			"none",
+			"min-width: 993px",
+			".main-menu-toggle",
+			"superhero",
+			"jquery",
+			"superhero",
+			".site-logo a",
+			"428bca",
+			"297BBC",
+			"29bcb8",
+			".space-dropdown ul li:hover ",
+			".space-dropdown ul li:hover > ul.menu-search",
+			"second",
+			"first",
+			"second",
+			".nill-box-menu",
+			"  .space-dropdown > ul ul",
+			"icon-hom",
+			"icon-home",
+			"superhero",
+			"a",
+			".space-dropdown > ul > li > a:hover, .space-dropdown > ul > li > a.active",
+			".space-dropdown ul li:hover > ul",
+			"color",
+			"superhero",
+			"icon-home",
+			"hover",
+			"superhero",
+			"}",
+			"superhero",
+			"fa",
+			"logo",
+			"cols",
+			"width",
+			"#Buttons",
+			"preloader",
+			"layerslider",
+			"layer",
+			"Slider",
+			"layer",
+			"#back-top",
+			"Enable",
+			"menu link",
+			"edit	delete	translate",
+			"Enable Αρχική menu link \nedit	delete	translate",
+			"L</td>",
+			"L",
+			"AGROSALES",
+			"www.agrosales.gr",
+			"product-img",
+			"max",
+			"upload_max_filesize",
+			"max",
+			"current",
+			"active",
+			"clear",
+			"four",
+			"menu",
+			"footer h2",
+			"'Open Sans'",
+			"\"Open Sans\"",
+			"font-family",
+			"font-style",
+			".content		",
+			"product-img",
+			"slider",
+			"<div class=\"clear\"></div>",
+			"four"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<img src=\"<?php print $path ?>/images",
+			"dataout",
+			"1296px",
+			"1295px",
+			"1000px",
+			"rgb(64, 140, 240);",
+			"rgb(64, 140, 240)",
+			"72AADB",
+			"space",
+			"72AADB",
+			"428bca",
+			"297BBC",
+			".space-dropdown",
+			"space",
+			"",
+			"Lt</td>",
+			"Lt",
+			"AR-AN",
+			"www.ar-an.gr",
+			"product-img-spare",
+			"twoproduct-img-spare",
+			"two",
+			"serif",
+			"product-img-front",
+			"",
+			"two",
+			"#FDFFCD",
+			"FDFFCD",
+			"FAFDD5",
+			"F8F1BE",
+			"€",
+			"style=\"text-align:center\" colspan=\"2\"",
+			"€",
+			"<img src=\"/sites/default/files/rakor-amblia.jpg\" width=\"142\" height=\"180\" alt=\"Ρακόρ Φίλτρου Αμβλεία\" title=\"Ρακόρ Φίλτρου Αμβλεία\" />",
+			"\n<img src=\"/sites/default/files/rakor-filtrou-gonia.jpg\" width=\"178\" height=\"160\" alt=\"Ρακόρ Φίλτρου Γωνία\" title=\"Ρακόρ Φίλτρου Γωνία\" />",
+			"<img src=\"/sites/default/files/rakor-isio2.jpg\" width=\"276\" height=\"186\" alt=\"Ρακόρ Φίλτρου ίσιο\" title=\"Ρακόρ Φίλτρου ίσιο\" />",
+			"200",
+			"",
+			"7CC4FC",
+			"DFD9D9",
+			"<td style=\"background:#F3E15B\">",
+			"style=\"background:#053C6F;color:white\"",
+			"#053C6F\" color:\"white\"",
+			"#7AC6F1",
+			"053C6F",
+			"#7AC6F1",
+			".views-table",
+			"aran",
+			"",
+			"start",
+			"aran",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "susytut.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "susy.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"css\\main.css"
+			],
+			[
+				"html",
+				"goodnex\\templates\\html.tpl.php"
+			],
+			[
+				"snipethtml",
+				"project\\single-project.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
